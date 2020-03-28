@@ -1,0 +1,10 @@
+ifort -r8 Code_for_fig7.f90 -o run
+./run
+The 1st, 2nd, and 3rd columns in 'eigenvalue.dat' are the normalized rotation frequency, mode growth rate, and mode real frequency in labrotary frame.
+
+If there is any questions, please contact me.
+
+
+2020-3-28
+Guangzhou Hao
+haogz@swip.ac.cn
